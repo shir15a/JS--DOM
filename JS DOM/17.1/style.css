@@ -1,0 +1,15 @@
+body {
+    display: grid;
+    place-items: center;
+  }
+  p {
+    width: 250px;
+    height: 250px;
+    background: hsl(0, 100%, 50%);
+    font-weight: bold;
+    display: grid;
+    place-items: center;
+    margin: 10px;
+    user-select: none;
+  }
+  
